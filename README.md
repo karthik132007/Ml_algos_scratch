@@ -16,7 +16,9 @@ This repository contains implementations of various Machine Learning and Deep Le
 		- `linear_reg.ipynb`: Linear regression notebook
 		- `logreg_practice.ipynb`: Logistic regression practice notebook
 
+
 - **OPtimizers/**
-	- (Currently empty) Intended for optimization algorithm implementations
+	- Contains optimization algorithm implementations:
+		 - `Gradient_Descent.ipynb`: Jupyter notebook demonstrating gradient descent optimization
 
 
