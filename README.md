@@ -15,6 +15,7 @@ This repository contains implementations of various Machine Learning and Deep Le
 		- `KNN.py`: K-Nearest Neighbours algorithm
 		- `linear_reg.ipynb`: Linear regression notebook
 		- `logreg_practice.ipynb`: Logistic regression practice notebook
+		- `SVM_linear.ipynb`: Linear Support Vector Machine implementation
 
 
 - **OPtimizers/**
