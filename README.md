@@ -16,10 +16,13 @@ This repository contains implementations of various Machine Learning and Deep Le
 		- `linear_reg.ipynb`: Linear regression notebook
 		- `logreg_practice.ipynb`: Logistic regression practice notebook
 		- `SVM_linear.ipynb`: Linear Support Vector Machine implementation
-
+		- `SVM_poly_kernel.ipynb`: Support Vector Machine with Polynomial transformation
 
 - **OPtimizers/**
 	- Contains optimization algorithm implementations:
 		 - `Gradient_Descent.ipynb`: Jupyter notebook demonstrating gradient descent optimization
+
+## Terminology
+For a list of commonly used variable names and symbols across the repository, please refer to [Terms.md](Terms.md).
 
 
